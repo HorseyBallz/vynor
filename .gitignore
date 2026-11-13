@@ -1,0 +1,11 @@
+.DS_Store
+node_modules/
+.wrangler/
+.env*
+
+# local tooling output and history, not part of the site
+backups/
+.playwright-mcp/
+graphify-out/
+.impeccable/
+ponor-design/
