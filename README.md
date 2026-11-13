@@ -1,4 +1,6 @@
-# Vynor by Hulko
+<p align="center"><img src="docs/title.gif" alt="Vynor by Hulko" width="100%"></p>
+
+<h1 align="center">Vynor by Hulko</h1>
 
 **Vynor finds the answers nobody else thinks of.** Paste a Slovak question or category, and Claude returns one word. The word is correct but uncommon, which is what scores in [PONOR](https://ponor.sk), the Slovak word game where obvious answers score nothing.
 
