@@ -45,4 +45,4 @@ Ten nasadí Cloudflare Worker `vynor` z dočasného priečinka, v ktorom je len 
 
 ---
 
-Len na osobné použitie. Vynor nenabáda k vkladaniu API kľúča ani k podvádzaniu na ponor.sk.
+Licencia [MIT](LICENSE). Pribalené SDK a písmo majú vlastné licencie, pozri [THIRD_PARTY_LICENSES](THIRD_PARTY_LICENSES). Vynor nenabáda k vkladaniu API kľúča ani k podvádzaniu na ponor.sk.
